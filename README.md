@@ -4,5 +4,5 @@ Ignore this one
 
 Foo
 
-kbd>☑️ send</kbd>  
+<kbd>☑️ send</kbd>  
 <kbd>receive</kbd>
