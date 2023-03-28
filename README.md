@@ -1,8 +1,6 @@
 # test-one-two
 
-Ignore this one
-
-Foo
+Foo bar.
 
 <kbd>☑️ send</kbd>  
 <kbd>receive</kbd>
